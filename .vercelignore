@@ -1,0 +1,21 @@
+# Dependencies
+node_modules
+
+# Environment files
+.env.local
+.env
+
+# Build outputs
+.next
+out
+
+# Development
+.vscode
+.idea
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Puppeteer cache (not needed on Vercel)
+.cache
